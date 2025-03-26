@@ -50,7 +50,7 @@ python run.py
 Bạn có thể thay đổi các tham số sau trong tệp `run.py`:
 
 **Đầu vào/Đầu ra**:
-- `source`: Đường dẫn đến tệp video đầu vào hoặc chỉ số webcam (0 cho camera mặc định)
+- `source`: Đường dẫn đến tệp video đầu vào hoặc chỉ số webcam (0 cho camera mặc định) (https://scontent.xx.fbcdn.net/m1/v/t6/An_giLay4_i6pW3UVzhKh9ehzqTUaVIv4uqPIYnzAvYIIw8vL54HrWo7RNsxhwkX8Da9wlGyn_DhvSYczWlqVmpA45tdI45Wzlwf80ZjiVyVCenfQnHj_MaH2VCf9DfLomszlTlPUazqTzrPKeQvABAB-VzBTeo7c8gm0PP5q3m-9w.mp4/AriaEverydayActivities_1.0.0_loc5_script4_seq6_rec1_preview_rgb.mp4?ccb=10-5&oh=00_AYHzuWS_EC1AA3EO7hqVEMUGOXzzMtkNl6Spi4pHosR04w&oe=68049756&_nc_sid=792287)
 - `output_path`: Đường dẫn đến tệp video đầu ra
 
 **Cài đặt mô hình**:
